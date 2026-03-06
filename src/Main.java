@@ -1,7 +1,12 @@
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println ("Hello World!");
-        System.out.println ("and of course, hello Java!");
-        System.out.println ("annnd hello intelliJ!");
+
+        Student student1 = new Student("Camila");
+        Student student2 = new Student("Leonardo");
+
+        student1.sayHello();
+        student2.sayHello();
+
     }
 }
