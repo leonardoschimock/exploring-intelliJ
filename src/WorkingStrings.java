@@ -1,4 +1,4 @@
-public class workingStrings {
+public class WorkingStrings {
     public static void main (String[] args) {
 
         String name = "Leonardo";

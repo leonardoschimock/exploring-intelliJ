@@ -1,4 +1,4 @@
-public class typesConversion {
+public class TypesConversion {
     public static void main (String[] args) {
         int number = 10;
         double anotherNumber = number;

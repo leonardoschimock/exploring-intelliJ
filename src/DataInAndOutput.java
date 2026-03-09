@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dataInAndOutput {
+public class DataInAndOutput {
     public static void main (String[] args) {
 //        System.out.println ("Hello I print and skip to next line");
 //        System.out.print ("Hello I print everything on the same line");
