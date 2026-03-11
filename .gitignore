@@ -1,4 +1,16 @@
+
 .idea/
-out/
 *.iml
+
+
 *.class
+
+
+out/
+
+
+*.log
+
+
+.DS_Store
+Thumbs.db
