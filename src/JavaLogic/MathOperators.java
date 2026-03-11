@@ -1,3 +1,5 @@
+package JavaLogic;
+
 public class MathOperators {
     public static void main (String[] args) {
         double bread = 9.50;

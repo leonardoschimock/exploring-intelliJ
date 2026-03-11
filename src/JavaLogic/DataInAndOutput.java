@@ -1,3 +1,5 @@
+package JavaLogic;
+
 import java.util.Scanner;
 
 public class DataInAndOutput {

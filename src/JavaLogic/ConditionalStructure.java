@@ -1,3 +1,5 @@
+package JavaLogic;
+
 public class ConditionalStructure {
     public static void main (String[] args) {
 

@@ -1,3 +1,5 @@
+package JavaLogic;
+
 public class ComparativeExpressions {
     public static void main (String[] args) {
         int bread = 10;

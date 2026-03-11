@@ -1,3 +1,5 @@
+package JavaLogic;
+
 public class TypesConversion {
     public static void main (String[] args) {
         int number = 10;

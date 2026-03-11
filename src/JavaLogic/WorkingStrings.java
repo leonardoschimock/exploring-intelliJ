@@ -1,3 +1,5 @@
+package JavaLogic;
+
 public class WorkingStrings {
     public static void main (String[] args) {
 
