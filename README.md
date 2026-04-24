@@ -41,7 +41,7 @@ Although part of the content is based on a Udemy course, this repository is **no
 
 The repository contains multiple exercises organized by topic, especially inside:
 
-    ObjectOrientedProgramming/Exercises
+    github.com/leonardoschimock/exploring-intelliJ/ObjectOrientedProgramming/Exercises
 
 These exercises are meant to reinforce:
 - Algorithmic thinking  
@@ -54,7 +54,7 @@ These exercises are meant to reinforce:
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/leonardoschimock/exploring-intelliJ.git
 
 2. Open the project in your preferred IDE (recommended: IntelliJ IDEA)
 
