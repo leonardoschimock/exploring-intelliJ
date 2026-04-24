@@ -41,7 +41,7 @@ Although part of the content is based on a Udemy course, this repository is **no
 
 The repository contains multiple exercises organized by topic, especially inside:
 
-    github.com/leonardoschimock/exploring-intelliJ/ObjectOrientedProgramming/Exercises
+    [github.com/leonardoschimock/exploring-intelliJ/ObjectOrientedProgramming/Exercises](https://github.com/leonardoschimock/exploring-intelliJ/tree/main/src/ObjectOrientedProgramming/Exercises)
 
 These exercises are meant to reinforce:
 - Algorithmic thinking  
