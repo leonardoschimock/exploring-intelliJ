@@ -54,7 +54,7 @@ These exercises are meant to reinforce:
 
 1. Clone the repository:
 
-    ´git clone https://github.com/leonardoschimock/exploring-intelliJ.git´
+    'git clone https://github.com/leonardoschimock/exploring-intelliJ.git'
 
 2. Open the project in your preferred IDE (recommended: IntelliJ IDEA)
 
